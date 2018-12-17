@@ -1,3 +1,3 @@
 # Array-to-Tree-JS
 
-### Converts a given array into a Tree using reccursion
+### Function that Converts a given array into a Tree using reccursion
